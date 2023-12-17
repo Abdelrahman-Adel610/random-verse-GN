@@ -1,0 +1,16 @@
+main
+{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) ,url("../bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+h1
+{
+    font-size: 4rem;
+}
+.verse
+{
+    font-size: 2rem;
+    font-family: 'Noto Sans Arabic', sans-serif;
+}
